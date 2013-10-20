@@ -1,0 +1,9 @@
+This is a repository containing the accumulated wisdom found in the
+fsbot homie-yow command.
+
+All output Copyright Homie
+
+To use in your emacs simply
+
+(setq yow-file "/path/to/homie.lines")
+
