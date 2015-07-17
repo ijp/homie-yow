@@ -5,5 +5,5 @@ All output Copyright Homie
 
 To use in your emacs simply
 
-(setq yow-file "/path/to/homie.lines")
+(setq cookie-file "/path/to/homie.lines")
 
